@@ -7,7 +7,7 @@ const firebaseConfig = {
   projectId: "d5reactgallery-9b71a",
   storageBucket: "d5reactgallery-9b71a.appspot.com",
   messagingSenderId: "536593390465",
-  appId: "536593390465:web:f29b1b22ef9cb511112680",
+  appId: "1:536593390465:web:f29b1b22ef9cb511112680",
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
